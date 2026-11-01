@@ -16,7 +16,7 @@ from pclasses import c_datemanager as datt
 # KONFIGURATION (Hier anpassbar)
 # ==========================================
 PDF_TITLE_TEXT = (  # Erste Zeile der Überschrift
-    "test1"
+    "Statische Überschrift (editieren in listgenerator.py)"
 )
 PDF_OUTPUT_DIR = "../testoutput"  # Ordner, in dem die PDFs gespeichert werden
 STORAGE_DIR = "../teststorage"  # Ordner mit den Excel-Dateien
